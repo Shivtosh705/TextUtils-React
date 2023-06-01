@@ -1,6 +1,6 @@
 
 
-#deployed link:  https://glowing-semolina-b1b492.netlify.app/
+#deployed link: https://fancy-gecko-91a530.netlify.app/
 
 
 # Getting Started with Create React App
